@@ -1,0 +1,56 @@
+p {
+    padding-top: 10px;
+}
+
+img {
+    border: 1px solid rgb(7, 0, 0);
+    border-radius: 8px;
+
+}
+
+.row-img {
+    width: 100%;
+    aspect-ratio: 1;
+}
+
+.container-fluid {
+
+    padding: 60px 50px;
+}
+
+
+
+.navbar-brand,
+.text-info {
+
+    font-family: "Style Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+
+
+
+}
+
+
+#MC {
+
+    font-family: "Style Script", cursive;
+    font-style: normal;
+    font-size: 50px;
+}
+
+#intro {
+
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+
+@media (min-width:768) {
+
+    .newsinput {
+        width: 50%;
+        height: 50%;
+    }
+}

@@ -1,0 +1,121 @@
+.mappics {
+
+    border: 10px solid rgb(255, 252, 252);
+    padding: 16px;
+    margin: 10px;
+    border-style: inset;
+    border-radius: 50px;
+    flex-basis: 100%;
+    text-align: left;
+
+    border-radius: 50px;
+    box-sizing: border-box;
+    height: 365px;
+    flex-basis: 30%;
+}
+
+.mappicstext {
+
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(212, 212, 212);
+    padding: 2px 6px 2px 6px;
+    text-align: left;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+
+
+.citiescontainer {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+
+
+
+
+
+
+
+}
+
+.navbar-brand,
+.text-info {
+
+    font-family: "Style Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+
+
+
+}
+
+.travelhead {
+    font-family: "Style Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px;
+    font-size: 40px;
+}
+
+#Seoul {
+
+    background-image: url(IMGS/seoul.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Busan {
+    background-image: url(IMGS/busan.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Jeju {
+    background-image: url(IMGS/jeju.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#Ilsan {
+    background-image: url(IMGS/ilsan.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Daegu {
+    background-image: url(IMGS/Daegu.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+#Dajeon {
+    background-image: url(IMGS/Daejeon.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Jinju {
+    background-image: url(IMGS/jinju.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Pohang {
+    background-image: url(IMGS/Pohang.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Gwangju {
+    background-image: url(IMGS/gwangju.jpg);
+    background-size: cover;
+    background-position: center;
+}
