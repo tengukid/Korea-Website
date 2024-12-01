@@ -1,16 +1,13 @@
 .mappics {
 
     border: 10px solid rgb(255, 252, 252);
-    padding: 16px;
+    padding: 10px;
     margin: 10px;
     border-style: inset;
     border-radius: 50px;
     flex-basis: 100%;
     text-align: left;
-
-    border-radius: 50px;
-    box-sizing: border-box;
-    height: 365px;
+    height: 400px;
     flex-basis: 30%;
 }
 
@@ -33,7 +30,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-
+    height: 100vh;
 
 
 
@@ -68,7 +65,8 @@
 
     background-image: url(IMGS/seoul.jpg);
     background-size: cover;
-    background-position: center;
+
+
 }
 
 #Busan {
@@ -93,19 +91,19 @@
 #Daegu {
     background-image: url(IMGS/Daegu.webp);
     background-size: cover;
-    background-position: center;
+
 }
 
 #Dajeon {
     background-image: url(IMGS/Daejeon.jpg);
     background-size: cover;
-    background-position: center;
+
 }
 
 #Jinju {
     background-image: url(IMGS/jinju.jpg);
     background-size: cover;
-    background-position: center;
+
 }
 
 #Pohang {
