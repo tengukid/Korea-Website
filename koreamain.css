@@ -1,13 +1,4 @@
 @media(max-width: 768px) {
-    body {
-        display: table-row;
-        width: 100vh;
-    }
-}
-
-
-
-@media(max-width: 768px) {
     #mainimg {
         display: none;
     }
