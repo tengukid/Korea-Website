@@ -1,8 +1,24 @@
-body {
-
-    height: 100vh;
+@media(max-width: 768px) {
+    body {
+        display: table-row;
+        width: 100vh;
+    }
 }
 
+
+
+@media(max-width: 768px) {
+    #mainimg {
+        display: none;
+    }
+}
+
+@media(max-width: 768px) {
+    #maincon {
+        display: flex;
+        align-items: center;
+    }
+}
 
 p {
     padding-top: 10px;

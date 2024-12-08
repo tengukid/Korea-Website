@@ -1,3 +1,19 @@
+@media(max-width: 768px) {
+    body {
+        display: table-row;
+    }
+}
+
+
+
+
+
+body {
+
+    font-size: 20px;
+    height: 100vh;
+}
+
 .mappics {
 
     border: 10px solid rgb(255, 252, 252);
@@ -9,6 +25,7 @@
     text-align: left;
     height: 400px;
     flex-basis: 30%;
+
 }
 
 .mappicstext {

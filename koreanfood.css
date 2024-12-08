@@ -1,6 +1,18 @@
+@media(max-width: 768px) {
+    body {
+        display: col;
+
+    }
+}
+
+
+
+
+
 body {
 
     font-size: 20px;
+    height: 100vh;
 }
 
 #ddeok {
@@ -30,5 +42,5 @@ body {
 section {
 
     height: 650px;
-
+    margin: 2px 0px 0px 0px
 }
